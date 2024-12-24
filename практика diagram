@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Страница — 1" id="LCTe6f2hYMmTDl43gFaG">
-    <mxGraphModel dx="1687" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,9 +76,6 @@
         </mxCell>
         <mxCell id="L1CM_L124XOWxBCHIckK-17" value="&lt;strong style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;Администратор&lt;/strong&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="800" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L1CM_L124XOWxBCHIckK-21" value="&lt;li&gt;&lt;p&gt;&lt;strong&gt;Преподаватель:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Вводит данные об оценках.&lt;/li&gt;&lt;li&gt;Вводит данные о посещаемости.&lt;/li&gt;&lt;li&gt;Просматривает успеваемость студентов.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Администратор:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Управляет списком студентов и предметов.&lt;/li&gt;&lt;li&gt;Генерирует отчеты об успеваемости.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="410" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="L1CM_L124XOWxBCHIckK-22" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Вводит данные об оценках.&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="475" width="120" height="80" as="geometry" />
